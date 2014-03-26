@@ -3,7 +3,7 @@ web1:
   shared_writable_dirs:
     - wp-content/uploads/
     - wp-content/themes/surfavideo/functions.php
-    - /var/www/.htaccess
+    - var/www/.htaccess
   after_build:
     - "mv pagoda/wp-config.php wp-config.php"
     - "rm -R pagoda"
