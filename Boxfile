@@ -15,7 +15,6 @@ db1:
   php_max_execution_time: 600
   php_max_input_time: 620
   php_extensions:
-    - "curl init"
     - amqp
     - apm
     - bcmath
