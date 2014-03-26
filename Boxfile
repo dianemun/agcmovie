@@ -5,7 +5,6 @@ web1:
     - wp-content/themes/surfavideo/functions.php
     - /.htaccess
     - /var/www/.htaccess
-    - .htaccess
   after_build:
     - "mv pagoda/wp-config.php wp-config.php"
     - "rm -R pagoda"
