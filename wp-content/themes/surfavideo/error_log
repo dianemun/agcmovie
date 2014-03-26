@@ -1,0 +1,5 @@
+[24-Feb-2014 08:45:37] PHP Fatal error:  Call to undefined function  get_option() in /home1/ddrme/public_html/domain/moviewikipedia.com/wp-content/themes/surfavideo/index.php on line 2
+[14-Mar-2014 01:30:56] PHP Fatal error:  Call to undefined function  get_option() in /home1/ddrme/public_html/domain/moviewikipedia.com/wp-content/themes/surfavideo/index.php on line 2
+[16-Mar-2014 08:11:12] PHP Fatal error:  Call to undefined function  get_option() in /home1/ddrme/public_html/domain/moviewikipedia.com/wp-content/themes/surfavideo/index.php on line 2
+[18-Mar-2014 14:05:37] PHP Fatal error:  Call to undefined function  get_option() in /home1/ddrme/public_html/domain/moviewikipedia.com/wp-content/themes/surfavideo/index.php on line 2
+[20-Mar-2014 09:42:58] PHP Fatal error:  Call to undefined function  get_option() in /home1/ddrme/public_html/domain/moviewikipedia.com/wp-content/themes/surfavideo/index.php on line 2
